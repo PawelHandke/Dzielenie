@@ -1,0 +1,26 @@
+C:\Users\p\source\repos\Dzielenie\bin\Release\Dzielenie.exe.config
+C:\Users\p\source\repos\Dzielenie\bin\Release\Dzielenie.exe
+C:\Users\p\source\repos\Dzielenie\bin\Release\Dzielenie.pdb
+C:\Users\p\source\repos\Dzielenie\obj\Release\Dzielenie.OknoDzielenie.resources
+C:\Users\p\source\repos\Dzielenie\obj\Release\Dzielenie.Properties.Resources.resources
+C:\Users\p\source\repos\Dzielenie\obj\Release\Dzielenie.csproj.GenerateResource.cache
+C:\Users\p\source\repos\Dzielenie\obj\Release\Dzielenie.exe
+C:\Users\p\source\repos\Dzielenie\obj\Release\Dzielenie.pdb
+D:\Visual Studio\Dzielenie\bin\Release\Dzielenie.exe.config
+D:\Visual Studio\Dzielenie\bin\Release\Dzielenie.exe
+D:\Visual Studio\Dzielenie\bin\Release\Dzielenie.pdb
+D:\Visual Studio\Dzielenie\obj\Release\Dzielenie.csprojAssemblyReference.cache
+D:\Visual Studio\Dzielenie\obj\Release\Dzielenie.OknoDzielenie.resources
+D:\Visual Studio\Dzielenie\obj\Release\Dzielenie.Properties.Resources.resources
+D:\Visual Studio\Dzielenie\obj\Release\Dzielenie.csproj.GenerateResource.cache
+D:\Visual Studio\Dzielenie\obj\Release\Dzielenie.exe
+D:\Visual Studio\Dzielenie\obj\Release\Dzielenie.pdb
+D:\git pobrane\Dzielenie-master\obj\Release\Dzielenie.csprojAssemblyReference.cache
+D:\git pobrane\Dzielenie-master\obj\Release\Dzielenie.OknoDzielenie.resources
+D:\git pobrane\Dzielenie-master\obj\Release\Dzielenie.Properties.Resources.resources
+D:\git pobrane\Dzielenie-master\obj\Release\Dzielenie.csproj.GenerateResource.cache
+D:\git pobrane\Dzielenie-master\obj\Release\Dzielenie.exe
+D:\git pobrane\Dzielenie-master\obj\Release\Dzielenie.pdb
+D:\git pobrane\Dzielenie-master\bin\Release\Dzielenie.exe.config
+D:\git pobrane\Dzielenie-master\bin\Release\Dzielenie.exe
+D:\git pobrane\Dzielenie-master\bin\Release\Dzielenie.pdb

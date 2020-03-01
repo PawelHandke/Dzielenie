@@ -1,0 +1,18 @@
+C:\Users\p\source\repos\Dzielenie\bin\Debug\Dzielenie.exe.config
+C:\Users\p\source\repos\Dzielenie\bin\Debug\Dzielenie.exe
+C:\Users\p\source\repos\Dzielenie\bin\Debug\Dzielenie.pdb
+C:\Users\p\source\repos\Dzielenie\obj\Debug\Dzielenie.csprojAssemblyReference.cache
+C:\Users\p\source\repos\Dzielenie\obj\Debug\Dzielenie.OknoDzielenie.resources
+C:\Users\p\source\repos\Dzielenie\obj\Debug\Dzielenie.Properties.Resources.resources
+C:\Users\p\source\repos\Dzielenie\obj\Debug\Dzielenie.csproj.GenerateResource.cache
+C:\Users\p\source\repos\Dzielenie\obj\Debug\Dzielenie.exe
+C:\Users\p\source\repos\Dzielenie\obj\Debug\Dzielenie.pdb
+D:\git pobrane\Dzielenie-master\bin\Debug\Dzielenie.exe.config
+D:\git pobrane\Dzielenie-master\bin\Debug\Dzielenie.exe
+D:\git pobrane\Dzielenie-master\bin\Debug\Dzielenie.pdb
+D:\git pobrane\Dzielenie-master\obj\Debug\Dzielenie.csprojAssemblyReference.cache
+D:\git pobrane\Dzielenie-master\obj\Debug\Dzielenie.OknoDzielenie.resources
+D:\git pobrane\Dzielenie-master\obj\Debug\Dzielenie.Properties.Resources.resources
+D:\git pobrane\Dzielenie-master\obj\Debug\Dzielenie.csproj.GenerateResource.cache
+D:\git pobrane\Dzielenie-master\obj\Debug\Dzielenie.exe
+D:\git pobrane\Dzielenie-master\obj\Debug\Dzielenie.pdb
